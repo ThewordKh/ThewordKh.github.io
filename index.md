@@ -3,13 +3,18 @@ layout: default
 ---  
 * * *
 # **Quem sou eu** ?  
-Franklin Mateus Mendonça Barbosa  
+
+ **Meu nome**  
+ Franklin Mateus Mendonça Barbosa
+ **O que eu faço**  
+ Desenvolvo jogos digitais. Minhas principais experiências são com programação, level design e game design.  
+  
 # **Produções**  
 ## **Games**  
 ### **Apresentações**  
-1.[Explore](https://thewordkh.github.io/Explore/)  
-1.  
-1.  
+1.[Explore](https://thewordkh.github.io/Explore/)    
+2.[Carta: uma jornada frágil](https://mycehllangello.github.io/Carta uma jornada frágil/)  
+3.[The Darkness Ascension](https://mycehllangello.github.io/tdaf/)    
 * Cabou
 * * * 
 
