@@ -13,7 +13,7 @@ layout: default
 ## **Games**  
 ### **Apresentações**  
 1.[Explore](https://thewordkh.github.io/Explore/)    
-2.[Carta: uma jornada frágil](https://mycehllangello.github.io/Carta_uma_jornada_frágil/)  
+2.[Carta: uma jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
 3.[The Darkness Ascension](https://mycehllangello.github.io/tdaf/)    
 * Cabou
 * * * 
