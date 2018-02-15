@@ -7,7 +7,7 @@ layout: default
  **Meu nome**  
  * * *  
  Franklin Mateus Mendonça Barbosa  
- * * *  
+
  **O que eu faço**  
  * * *  
  Desenvolvo jogos digitais. Minhas principais experiências são com programação, level design e game design.  
