@@ -14,7 +14,7 @@ layout: default
   
 # **Produções**  
 1. Carta: uma jornada frágil  
-(CartaGame.png)  
+![](CartaGame.png)  
 ## **Games**  
 1. [Explore](https://thewordkh.github.io/Explore/)    
 2. [Carta: uma jornada frágil](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)  
