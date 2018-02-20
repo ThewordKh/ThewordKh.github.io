@@ -6,7 +6,7 @@ layout: default
  * * *  
  **Meu nome é**  
  Franklin Mateus Mendonça Barbosa  
-![](Perfil.jpg)  
+![](WWW.jpg)  
  **O que eu faço**  
  Desenvolvo jogos digitais. Minhas principais experiências são com programação, level design e game design.  
  **Contatos**  
@@ -22,7 +22,7 @@ layout: default
  <dt> Um jogo de corrida infinita em que o jogador deve controlar uma frágil e "indefesa" carta em sua jornada pela cidade. Por quanto tempo você conseguirá mante-la inteira?</dt>  
  ![](CartaGame.png)   
  3. The Darkness Ascension  
- <dt></dt>
+ <dt> Encontre a saída de um hospital macabro resovendo puzzles dos mais diversos. E cuidado com a sombra...</dt>  
  ![](TDA.png)  
  * * *  
 # **Games**  
