@@ -10,7 +10,8 @@ layout: default
  **O que eu faço**  
  Desenvolvo jogos digitais. Minhas principais experiências são com programação, level design e game design.  
  **Contatos**  
- 
+ Email - fmateus12316@gmail.com  
+ WhatsApp - 99194-6023  
  * * *  
 # **Produções**  
  * * *  
@@ -21,7 +22,8 @@ layout: default
  <dt> Um jogo de corrida infinita em que o jogador deve controlar uma frágil e "indefesa" carta em sua jornada pela cidade. Por quanto tempo você conseguirá mante-la inteira?</dt>  
  ![](CartaGame.png)   
  3. The Darkness Ascension  
- ![](TDA.png) 
+ <dt></dt>
+ ![](TDA.png)  
  * * *  
 # **Games**  
  * * *  
