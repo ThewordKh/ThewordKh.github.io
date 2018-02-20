@@ -18,10 +18,10 @@ layout: default
  1. Explore  
  <dt> Um jogo educativo em que o jogador explora as 5 regiões do Brasil na companhia de um GPS e deve coletar itens especificos de cada uma antes que a bateria do GPS acabe. E ai, será que você consegue?</dt>  
  ![](Explore.png)  
- 2. Carta: uma jornada frágil  
+ 1. Carta: uma jornada frágil  
  <dt> Um jogo de corrida infinita em que o jogador deve controlar uma frágil e "indefesa" carta em sua jornada pela cidade. Por quanto tempo você conseguirá mante-la inteira?</dt>  
  ![](CartaGame.png)   
- 3. The Darkness Ascension  
+ 1. The Darkness Ascension  
  <dt> Encontre a saída de um hospital macabro resovendo puzzles dos mais diversos. E cuidado com a sombra...</dt>  
  ![](TDA.png)  
  * * *  
