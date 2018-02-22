@@ -19,13 +19,13 @@ layout: default
  * * *  
  1. Explore   
  <dt> Um jogo educativo em que o jogador explora as 5 regiões do Brasil na companhia de um GPS e deve coletar itens especificos de cada uma antes que a bateria do GPS acabe. E ai, será que você consegue?</dt>  
- [![](Explore.png)](https://thewordkh.github.io/Explore/)](Explore.png)  
+ [![](Explore.png)](https://thewordkh.github.io/Explore/)  
  1.1 Carta: uma jornada frágil  
  <dt> Um jogo de corrida infinita em que o jogador deve controlar uma frágil e "indefesa" carta em sua jornada pela cidade. Por quanto tempo você conseguirá mante-la inteira?</dt>  
- [![](CartaGame.png)](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)]   
+ [![](CartaGame.png)](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)    
  1.2 The Darkness Ascension  
  <dt> Encontre a saída de um hospital macabro resovendo puzzles dos mais diversos. E cuidado com a sombra...</dt>  
- [![](TDA1.png)](https://guiegle.github.io/tda2/)]  
+ [![](TDA1.png)](https://guiegle.github.io/tda2/)  
  * * *  
 # **Outros projetos**  
  * * *  
