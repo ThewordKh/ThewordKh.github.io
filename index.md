@@ -32,9 +32,9 @@ layout: default
  **Influence Map**  
  ![](influence map FRANK.png)  
    
- **Tutorial: Mudança de idioma em jogo"  
+ **Tutorial: Mudança de idioma em jogo**  
  ![](tutorial.png)  
- <dt>Esse tutorial mostra como se faz a mecânica da troca de idiomas na plataforma Construct 2. O arquivo em pdf está abaixo para quem quiser conferir!</dt>  
- ![](Tutorial.pdf)  
+ <dt>Esse tutorial mostra como se faz a mecânica da troca de idiomas na plataforma Construct 2. O arquivo em pdf você encontra no link abaixo!</dt>  
+  [](https://drive.google.com/drive/folders/1Zqxi_FV_hpynoAsTZwkTcW0PgUwz1F4s?usp=sharing)
  
  * * *  
