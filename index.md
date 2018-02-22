@@ -13,7 +13,7 @@ layout: default
  Email - fmateus12316@gmail.com  
  WhatsApp - 99194-6023  
  * * *  
-# **Produções**  
+# **Portifólio**  
  * * *  
  1. [Explore](https://thewordkh.github.io/Explore/)   
  <dt> Um jogo educativo em que o jogador explora as 5 regiões do Brasil na companhia de um GPS e deve coletar itens especificos de cada uma antes que a bateria do GPS acabe. E ai, será que você consegue?</dt>  
@@ -25,6 +25,6 @@ layout: default
  <dt> Encontre a saída de um hospital macabro resovendo puzzles dos mais diversos. E cuidado com a sombra...</dt>  
  ![](TDA.png)  
  * * *  
-# **Apresentações**  
+# **Outros projetos**  
  * * *  
  * * *  
