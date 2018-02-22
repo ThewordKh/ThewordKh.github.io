@@ -29,7 +29,7 @@ layout: default
  * * *  
 # **Outros projetos**  
  * * *  
- <dt>Esse espaço é dedicado a outros trabalhos que eu realisei</dt>  
+ <dt>Esse espaço é dedicado a outros trabalhos que eu realizei</dt>  
    
  **Influence Map**  
  ![](influence map FRANK.png)  
