@@ -25,7 +25,7 @@ layout: default
  [![](CartaGame.png)](https://mychellangello.github.io/Carta%20uma%20jornada%20fr%C3%A1gil/)]   
  1.2 The Darkness Ascension  
  <dt> Encontre a saída de um hospital macabro resovendo puzzles dos mais diversos. E cuidado com a sombra...</dt>  
- [![](TDA.png)](https://guiegle.github.io/tda2/)]  
+ [![](TDA1.png)](https://guiegle.github.io/tda2/)]  
  * * *  
 # **Outros projetos**  
  * * *  
@@ -40,6 +40,7 @@ layout: default
   [Tutorial](https://drive.google.com/drive/folders/1Zqxi_FV_hpynoAsTZwkTcW0PgUwz1F4s?usp=sharing)  
   
  **Olimpiadas News**  
+ ![](Olimpiadas.png)  
  <dt> Trabalho da disciplina de Educação Física em que foi elaborado um vídeo critícando a Olimpiada do Rio de 2016. O vídeo você acessa clicando na palavra abaixo.</dt>  
  [Olimpiadas news](https://drive.google.com/drive/folders/1BJBUDYSKTq8kSWGCmlBnuuzvXSpI63Rz?usp=sharing)  
  * * *  
