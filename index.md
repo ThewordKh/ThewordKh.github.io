@@ -6,7 +6,7 @@ layout: default
  * * *  
  **Meu nome é**  
  Franklin Mateus Mendonça Barbosa  
-![](WWW.jpg)  
+ ![](WWW.jpg)  
  **O que eu faço**  
  Desenvolvo jogos digitais. Minhas principais experiências são com programação, level design e game design.  
  **Contatos**  
@@ -27,4 +27,14 @@ layout: default
  * * *  
 # **Outros projetos**  
  * * *  
+ <dd>Esse espaço é dedicado a outros trabalhos que eu realisei</dt>  
+   
+ **Influence Map**  
+ ![](influence map FRANK.png)  
+   
+ **Tutorial: Mudança de idioma em jogo"  
+ ![](tutorial.png)  
+ <dt>Esse tutorial mostra como se faz a mecânica da troca de idiomas na plataforma Construct 2. O arquivo em pdf está abaixo para quem quiser conferir!</dt>  
+ ![](Tutorial.pdf)  
+ 
  * * *  
