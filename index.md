@@ -36,7 +36,10 @@ layout: default
    
  **Tutorial: Mudança de idioma em jogo**  
  ![](tutorial.png)  
- <dt>Esse tutorial mostra como se faz a mecânica da troca de idiomas na plataforma Construct 2. O arquivo em pdf você encontra no link abaixo!</dt>  
+ <dt>Esse tutorial mostra como se faz a mecânica da troca de idiomas na plataforma Construct 2. O arquivo em pdf você encontra clicando na palavra abaixo.</dt>  
   [Tutorial](https://drive.google.com/drive/folders/1Zqxi_FV_hpynoAsTZwkTcW0PgUwz1F4s?usp=sharing)  
   
+ **Olimpiadas News**  
+ <dt> Trabalho da disciplina de Educação Física em que foi elaborado um vídeo critícando a Olimpiada do Rio de 2016. O vídeo você acessa clicando na palavra abaixo.</dt>  
+ [Olimpiadas news](https://drive.google.com/drive/folders/1BJBUDYSKTq8kSWGCmlBnuuzvXSpI63Rz?usp=sharing)  
  * * *  
